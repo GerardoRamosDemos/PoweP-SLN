@@ -25,8 +25,8 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://orgc4ef71d1.crm.dynamics.com'
-  CLIENT_ID: '86a18ba6-717c-4923-aca7-1213c8b5af2b'
+  ENVIRONMENT_URL: 'https://orgb35cc57f.crm.dynamics.com'
+  CLIENT_ID: '182534d6-e46b-4121-9a9e-9bf8bf14d545'
   TENANT_ID: 'c6629737-562f-4976-a31e-6f200d1cf93d'
 
 jobs:
